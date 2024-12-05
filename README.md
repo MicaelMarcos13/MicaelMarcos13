@@ -11,5 +11,8 @@ Me chamo Micael atualmente estou em transição de carreira pretendendo me torna
 Conecte-se comigo:
 <br>
 <br>
-<img width="24" height="24" src="https://img.icons8.com/material-outlined/24/new-post.png" alt="new-post"/>
+<a href="https://www.email.com/mmjdamaceno@gmail"><img width="25" height="25" src="https://img.icons8.com/material-outlined/24/new-post.png" alt="new-post"/></a> 
+<a href="https://www.linkedin.com/in/
+micael-damaceno
+"><img width="25" height="25" src="https://img.icons8.com/ios-filled/50/linkedin.png" alt="linkedin"/></a>
 
