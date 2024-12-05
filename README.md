@@ -15,7 +15,8 @@ Conecte-se comigo:
 <a href="https://www.linkedin.com/in/
 micael-damaceno
 "><img width="25" height="25" src="https://img.icons8.com/ios-filled/50/linkedin.png" alt="linkedin"/></a>
-
+<br>
+<br>
 
 [![Micael Stats](https://github-readme-stats.vercel.app/api?username=MicaelMarcos13)](https://github.com/anuraghazra/github-readme-stats)
 
