@@ -1,6 +1,6 @@
 ## Hi there 👋
 <br>
-Me chamo Micael atualmente estou em transição de carreira pretendendo me tornar um ótimo desenvolverdor. No momento estou estudando e criando projetos nas seguites tecnologias:
+Me chamo Micael atualmente estou em transição de carreira almejando tornar-me um ótimo desenvolverdor. Hoje trabalho como Empreendedor no ramo de Açaiteria, sou esforçado naquilo que faço e nunca deixo as dificuldades interferir nisso. gosto de trabalhar em equipe e me sinto bem com o sucesso dela. No momento estou estudando e criando projetos nas seguites tecnologias:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
